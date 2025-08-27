@@ -10,3 +10,11 @@ added H1 header!
 
 
 added yaktocat
+
+```python
+def greet(name):
+    return f"Hello, {name}!"
+
+print(greet("GitHub"))
+
+added code markdown
