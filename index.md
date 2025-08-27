@@ -15,6 +15,11 @@ added yaktocat
 def greet(name):
     return f"Hello, {name}!"
 
-print(greet("GitHub"))
 
 added code markdown
+
+
+- [ ] Finish adding an image
+- [ ] Add a Python code example
+- [ ] Create a task list
+- [ ] Celebrate completing the course 🎉
